@@ -29,7 +29,7 @@ const otherNumber = 1198000000
 //console.log((Math.floor(Math.random()*100) +1))  // to generate the random whole number number
 
 const min = 100
-const max = 110
+const max = 200
 
 //console.log(Math.floor((Math.random()*100)) + min) // to get a random number above a specific value
 
