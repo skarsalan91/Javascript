@@ -1,5 +1,4 @@
 //-------------------Numbers------------------------------------------------------------------//
-
 const Num1 = 1234123
 const NewNum1 = new Number(1212100);
 // console.log(NewNum1.toString().length)
@@ -12,9 +11,7 @@ const otherNumber = 1198000000
 // console.log(otherNumber.toExponential(5))               // return exponential number
 // console.log(otherNumber.toPrecision(2))           // round off before decimal and return string
 // console.log(otherNumber.toFixed(1))               // round off after decimal
-
 // console.log(otherNumber.toLocaleString('en-in'))  
-
 //----------------------Maths--------------------------------------------------------------------//
 // console.log(Math.PI)
 // console.log(Math.round(4.6))
